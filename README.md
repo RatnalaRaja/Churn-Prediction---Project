@@ -104,7 +104,7 @@ Upon clicking **"Predict Now"**:
 -  A customer calls support.
 -  Agent enters customer details in the dashboard.
 -  Model predicts 82.5% churn probability.
--  The dashboard highlights **❌ High Risk of Churn**.
+-  The dashboard highlights **❌ High Risk of Churn** or **Low Risk of Churn**.
 -  The team can now prioritize retention efforts.
 
 
