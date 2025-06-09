@@ -1,7 +1,7 @@
 
 #  Customer Churn Prediction Dashboard
 
-An interactive web application that predicts the likelihood of a  customer churning using a machine learning model. Built with **Streamlit**, **Plotly**, and **scikit-learn**, this dashboard helps customer service teams proactively identify at-risk customers and take informed retention actions.
+An interactive web application that predicts the likelihood of a  customer churning using a machine learning model. Built with **Streamlit**,  **Plotly**, and **scikit-learn**, this dashboard helps customer service teams proactively identify at-risk customers and take informed retention actions.
 
 
 ##  Project Summary
